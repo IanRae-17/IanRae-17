@@ -18,5 +18,5 @@ I'm passionate about creating fast, beautiful, and user-friendly web application
 ## Contact Me
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ianrae081@gmail.com)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-rae-3a0477256)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-rae-3a0477256)
 ---
